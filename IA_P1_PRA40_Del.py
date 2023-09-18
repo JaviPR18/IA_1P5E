@@ -1,0 +1,1 @@
+del nombre_objeto.atributo
