@@ -1,0 +1,2 @@
+
+print(colores[3])
